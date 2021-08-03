@@ -1,3 +1,6 @@
+
+# Clinical-GAN examples
+
 ## S1 Scenario examples:
 
 ### Example 1:
